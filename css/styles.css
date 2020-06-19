@@ -52,15 +52,13 @@ margin-bottom: 0;
 
   padding-top: 100px;
   position : absolute;
-  right : 20%;
+  right : 10%;
 
   width: 15%;
 }
 .bottom-cloud{
   position : absolute;
-  margin: auto;
-  left : 20%;
-  height: 15%;
+  left : 10%;
   width: 15%;
 }
 p{
